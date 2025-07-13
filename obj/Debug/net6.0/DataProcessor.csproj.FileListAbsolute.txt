@@ -1,0 +1,5 @@
+D:\My Drive\Programming\repos\unchecked\GradAdvanceLoad\obj\Debug\net6.0\DataProcessor.csproj.AssemblyReference.cache
+D:\My Drive\Programming\repos\unchecked\GradAdvanceLoad\obj\Debug\net6.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Drive\Programming\repos\unchecked\GradAdvanceLoad\obj\Debug\net6.0\DataProcessor.AssemblyInfoInputs.cache
+D:\My Drive\Programming\repos\unchecked\GradAdvanceLoad\obj\Debug\net6.0\DataProcessor.AssemblyInfo.cs
+D:\My Drive\Programming\repos\unchecked\GradAdvanceLoad\obj\Debug\net6.0\DataProcessor.csproj.CoreCompileInputs.cache

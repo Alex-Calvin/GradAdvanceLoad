@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|d:\\my drive\\programming\\repos\\unchecked\\gradadvanceload\\models\\advancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|solutionrelative:models\\advancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|d:\\my drive\\programming\\repos\\unchecked\\gradadvanceload\\models\\asd72217.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|solutionrelative:models\\asd72217.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|d:\\my drive\\programming\\repos\\unchecked\\gradadvanceload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B4681-B3C2-40FB-AEFC-519A127EFB60}|GradAdvanceLoad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ASD72217.cs",
+              "DocumentMoniker": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Models\\ASD72217.cs",
+              "RelativeDocumentMoniker": "Models\\ASD72217.cs",
+              "ToolTip": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Models\\ASD72217.cs",
+              "RelativeToolTip": "Models\\ASD72217.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:11:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:11:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvanceContext.cs",
+              "DocumentMoniker": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Models\\AdvanceContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdvanceContext.cs",
+              "ToolTip": "D:\\My Drive\\Programming\\repos\\unchecked\\GradAdvanceLoad\\Models\\AdvanceContext.cs",
+              "RelativeToolTip": "Models\\AdvanceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:11:48.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
